@@ -5,9 +5,10 @@
 
 
 /* Split */
-#define SPLIT_HAND_MATRIX_GRID B5, F6
-#define SPLIT_HAND_MATRIX_GRID_LOW_IS_LEFT
-#define MATRIX_MASKED
+// #define SPLIT_HAND_MATRIX_GRID B5, F6
+// #define SPLIT_HAND_MATRIX_GRID_LOW_IS_LEFT
+// #define MATRIX_MASKED
+#define MATER_LEFT
 
 /* Haptic hardware */
 // The Pimoroni is the likely hardware, for which these settings work

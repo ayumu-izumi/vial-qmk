@@ -11,3 +11,6 @@
 #define VIAL_KEYBOARD_UID {0x8A, 0x71, 0x42, 0xA2, 0xF0, 0x99, 0xA5, 0x24}
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 4 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 0 }
+
+// #undef SPLIT_HAND_MATRIX_GRID
+// #define MASTER_LEFT
